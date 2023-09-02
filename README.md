@@ -1,6 +1,13 @@
 # Gradient Descent Regression
 ### The GradientDescentRegression class is a simple implementation of linear regression using the gradient descent optimization algorithm. Linear regression is a fundamental supervised learning technique used to model the relationship between a dependent variable and one or more independent variables. It finds the best-fitting straight line through the data points to make predictions.
 
+  </a>
+  <!-- scikit-learn -->
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+    <img src="https://blog.paperspace.com/content/images/2018/05/convex_cost_function.jpg" />
+  </a>
+
+
 # Mathematical Formulation:
 ### In a simple linear regression with one independent variable, the relationship between the dependent variable y and the independent variable x is represented as:
 
