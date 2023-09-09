@@ -1,10 +1,3 @@
-<div class='alert alert-success'>
-    <h1 align="center">Gradient Descent Regression</h1> 
-    <h3 align="center">implementation Of Machine Learning Algorithms </h3>
-    <h5 align="center">Morteza Ebrahim Pour <a href='https://github.com/MortezaEbP/GradientDescentRegression'>2023</a></h5>
-</div>
-
-
 
 # Gradient Descent Regression
 ### The GradientDescentRegression class is a simple implementation of linear regression using the gradient descent optimization algorithm. Linear regression is a fundamental supervised learning technique used to model the relationship between a dependent variable and one or more independent variables. It finds the best-fitting straight line through the data points to make predictions.
